@@ -8,7 +8,8 @@ hello shibu , welcome back to my channel
 ### Revert the changes in git
 `git revert`
 
-###
+### To reset the changes 
+`git reset`
 
 ###
 
