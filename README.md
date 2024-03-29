@@ -1,6 +1,12 @@
-# SHIBU
+# GIT COMMMANDS
 
-hello shibu , welcome back to my channel
+Basics of git command
+
+### initialize repo
+`git init`
+
+### check status 
+`git status` 
 
 ### To undo the changes in a file
 `git checkout -- <file-name>`
@@ -8,10 +14,11 @@ hello shibu , welcome back to my channel
 ### Revert the changes in git
 `git revert`
 
-###
+### This is a demo Command
+`Nothing`
 
-###
-
+### To reset 
+`git reset`
 
 ###
 
