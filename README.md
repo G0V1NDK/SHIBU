@@ -11,8 +11,8 @@ hello shibu , welcome back to my channel
 ### This is a demo Command
 `Nothing`
 
-###
-
+### To reset 
+`git reset`
 
 ###
 
