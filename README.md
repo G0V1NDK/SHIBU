@@ -21,7 +21,7 @@ Basics of git command
 `git reset`
 
 ###
-
+Follow for more
 
 ###
 
